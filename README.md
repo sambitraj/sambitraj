@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **PHP[PROJECT-NAME:student academic & performance management ]**
 
-- 🌱 I’m currently learning **PHP,JAVASCRIPT**
+- 🌱 I’m currently learning **php & also javascript **
 
 - 👨‍💻 All of my projects are available at [https://sambitraj.000webhostapp.com/](https://sambitraj.000webhostapp.com/)
 
