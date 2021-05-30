@@ -26,8 +26,8 @@
 
 <hr>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sambitraj&show_icons=true&locale=en&layout=compact" alt="sambitraj" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sambitraj&show_icons=true&locale=en&layout=compact0&bg_color=90,cccccc,ffffff" alt="sambitraj" /></p>
 
 <hr>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sambitraj&show_icons=true&locale=en" alt="sambitraj" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sambitraj&show_icons=true&locale=en&card_width=300&card_height=150&bg_color=90,cccccc,ffffff" alt="sambitraj" /></p>
