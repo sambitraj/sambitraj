@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SAMBIT RAJ</h1>
 <h3 align="center">A passionate Web-developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sambitraj&label=Profile%20views&color=0e75b6&style=flat" alt="sambitraj" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=sambitraj&label=Profile%20views&color=0e75b6&style=flat" alt="sambitraj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sambitraj" alt="sambitraj" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sambitraj" alt="sambitraj" /></a> </p>
 
 - 🔭 I’m currently working on **PHP[PROJECT-NAME:student academic & performance management ]**
 
