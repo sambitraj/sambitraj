@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **php & also javascript**
 
-- 👨‍💻 All of my projects are available at [https://sambitraj.000webhostapp.com/](https://sambitraj.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [sambitraj-id](https://sambitraj.000webhostapp.com/)
 
 - 💬 Ask me about **html,css,python,mysql**
 
