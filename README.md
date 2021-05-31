@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sambitraj&label=Profile%20views&color=0e75b6&style=flat" alt="sambitraj" /> </p>
 
-<p align="center"> <a  href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sambitraj" alt="sambitraj" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sambitraj&theme=dracula" width="980" /> </p>
 
 <hr>
 
@@ -31,4 +31,4 @@
 
 <hr>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sambitraj&show_icons=true&locale=en&card_width=300&card_height=150&bg_color=90,cccccc,ffffff" alt="sambitraj" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sambitraj&show_icons=true&card_width=240&bg_color=90,cccccc,ffffff"></p>
