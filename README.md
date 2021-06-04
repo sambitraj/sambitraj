@@ -27,8 +27,12 @@
 
 <hr>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sambitraj&show_icons=true&locale=en&layout=compact0&bg_color=90,cccccc,ffffff" alt="sambitraj" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sambitraj&show_icons=true&locale=en&layout=compact0&bg_color=90,cccccc,ffffff" alt="sambitraj" /></p>
 
 <hr>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sambitraj&show_icons=true&card_width=240&bg_color=90,cccccc,ffffff"></p>
+
+<hr>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sambitraj&show_icons=true&card_width=240&bg_color=90,cccccc,ffffff"></p>
