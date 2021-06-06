@@ -35,4 +35,4 @@
 
 <hr>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sambitraj&show_icons=true&card_width=240&bg_color=90,cccccc,ffffff"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sambitraj"></p>
